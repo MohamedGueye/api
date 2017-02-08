@@ -1,0 +1,7 @@
+body {
+    background : url("https://media.giphy.com/media/6356D6z8HUdxu/giphy.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
